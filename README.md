@@ -2,7 +2,7 @@
 
 # Payment Module for VirtueMart 3
 
-Make payments in your VirtueMart 3 webshop possible. Download the special VirtueMart 3 webshop module [here](https://github.com/icepay/VirtueMart-3/releases), and you will be able to offer the most frequently used national and international online payment methods.
+Make payments in your VirtueMart 3 webshop possible. Download the special VirtueMart 3 webshop module [here](https://github.com/icepay/VirtueMart-3/releases), and you will be able to offer the most frequently used national and international online payment methods. An installation and configuration instruction is available [here](https://github.com/ICEPAY/VirtueMart-3/wiki).
 
 The master branche may not be stable. See the [release list](https://github.com/icepay/VirtueMart-3/releases) for stable version of this module.
 
