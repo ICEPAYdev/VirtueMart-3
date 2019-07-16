@@ -1,5 +1,7 @@
 ![ICEPAY](https://camo.githubusercontent.com/49043ebb42bd9b98941d6013761d4aadcd33f14f/68747470733a2f2f6963657061792e636f6d2f6e6c2f77702d636f6e74656e742f7468656d65732f6963657061792f696d616765732f6865616465722f6c6f676f2e737667)
 
+NOTE: PLEASE USE THE NEW API PLUGINS ON https://www.sellxed.com/shop/en/eur/extensions/module/payment-service-provider/icepay.html, WITH THE OLD API NOT ALL PAYMENT METHODS ARE SUPPORTED
+
 # Payment Module for VirtueMart 3
 
 Make payments in your VirtueMart 3 webshop possible. Download the special VirtueMart 3 webshop module [here](https://github.com/icepay/VirtueMart-3/releases), and you will be able to offer the most frequently used national and international online payment methods. An installation and configuration instruction is available [here](https://github.com/ICEPAY/VirtueMart-3/wiki).
